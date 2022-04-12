@@ -1,0 +1,57 @@
+body{
+    background-color: whitesmoke
+}
+.btn btn-primary{
+    letter-spacing: 2px;
+}
+.main{
+    width: 50%;
+    background-color:#E5D352; 
+    box-shadow: 2px 3px ;
+    padding: 5px;
+    margin:10px 5px;
+    box-shadow: 2px 3px;
+    margin-left: 40px;
+    margin-top: 20px;
+    box-shadow:5px 10px white;
+    justify-content: center;
+
+   
+}
+button{
+    margin: 15px;
+}
+input{
+    border-radius: 10px;
+    border:2px solid rgb(99, 167, 215);
+    width:300px;
+    height:35px;
+    color: #093a79;
+    font-family:'Times New Roman', Times, serif;
+    background-color:rgb(235, 221, 221);
+    letter-spacing:4px;
+    text-indent: 6px;
+
+}
+label{
+    color:black;
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    font-weight:900;
+    border-radius: 2px;
+}
+form{
+   margin-left: 20px;
+   
+}
+h3{
+    color:brown;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 40px;
+    text-indent: 6px;
+    font-weight: 800;
+}
+.aaa{
+   color:blue;
+}
